@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EscherAuth.Middlewares.Owin</id>
+    <version>1.0.0</version>
+    <title>$title$</title>
+    <authors>Tibor Toth</authors>
+    <owners>Tibor Toth</owners>
+    <copyright>Copyright 2015</copyright>
+    <description>Owin middleware that authenticates incoming requests with EscherAuth.</description>
+    <tags>EscherAuth Escher Authentication Owin Middleware</tags>
+  </metadata>
+</package>
